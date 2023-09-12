@@ -1,0 +1,11 @@
+.bottle-container img {
+    width: 200px;
+    height: 200px;
+}
+
+.bottle-container {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid lightgreen;
+    border-radius: 8px;
+}
